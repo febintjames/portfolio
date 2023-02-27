@@ -1,0 +1,21 @@
+.left{
+    width: 30%;  height: 500px;
+background-color: bisque;
+}
+img{
+    margin: 20px;
+}
+a{
+margin: 20px;
+
+}
+.right{
+margin: 10%; 
+
+}
+.parent{
+    display: flex;
+}
+h5{
+    color: rgb(148, 102, 45);
+}
